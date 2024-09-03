@@ -7,20 +7,25 @@
         "laravel",
         "livewire-quill"
     ],
-    "homepage": "https://github.com/joelwmale/livewire-quill",
+    "homepage": "https://github.com/dimimo/livewire-quill",
     "license": "MIT",
     "authors": [
         {
             "name": "Joel Male",
             "email": "joel@joelmale.com",
             "role": "Developer"
+        },
+        {
+            "name": "Dimitri Mostrey",
+            "email": "dmostrey@yahoo.com",
+            "role": "maintainer"
         }
     ],
     "require": {
-        "php": "^8.1|8.2",
-        "illuminate/support": "^9.0|^10.0",
-        "illuminate/contracts": "^9.0|^10.0",
-        "livewire/livewire": "^3.2"
+        "php": "^8.1|^8.2",
+        "illuminate/support": "^11.0",
+        "illuminate/contracts": "^11.0",
+        "livewire/livewire": "^3.5"
     },
     "require-dev": {
         "laravel/pint": "^1.10",
